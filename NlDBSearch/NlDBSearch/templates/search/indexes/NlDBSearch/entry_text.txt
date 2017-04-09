@@ -1,0 +1,3 @@
+{{ object.cat }}
+{{ object.act }}
+{{ object.utt }}
